@@ -1,0 +1,26 @@
+/* style sheet */
+
+body {
+	width:90%;
+	margin: auto;
+}
+
+form, fieldset {
+	width:100%;
+}
+
+.block-tag {
+	display: block;
+	width: 100%;
+}
+
+.first-col {
+	width: 25%;
+	float: left;
+}
+
+.second-col {
+	width: 75%;
+	float: left;
+}
+
